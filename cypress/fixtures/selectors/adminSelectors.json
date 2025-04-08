@@ -1,0 +1,14 @@
+{
+    "loginForm": {
+      "form": "form",
+      "emailInput": "input[name='email']",
+      "passwordInput": "input[name='password']",
+      "submitButton": ".login__button",
+      "errorMessage": ".login__error"
+    },
+    "adminPage": {
+      "hallsList": ".conf-step__list li",
+      "hallsSection": ".conf-step__list",
+      "confSteps" : "h2.conf-step__title"
+    }
+  }

@@ -1,0 +1,12 @@
+{
+    "bookingPage": {
+      "dayNav": ".page-nav__day",
+      "hallContainer": ".movie-seances__hall",
+      "seanceTime": ".movie-seances__time",
+      "seat": ".buying-scheme__chair:not(.buying-scheme__chair_taken)",
+      "acceptButton": ".acceptin-button",
+      "ticketQR": ".ticket__info-qr",
+      "ticketTitle": ".ticket__check-title",
+      "ticketInfo": ".ticket__info"
+    }
+  }

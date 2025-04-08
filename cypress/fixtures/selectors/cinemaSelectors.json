@@ -1,0 +1,18 @@
+{
+    "header": {
+      "title": "title",
+      "nav": ".page-nav",
+      "navDay": ".page-nav__day",
+      "navDayWeek": ".page-nav__day-week",
+      "navDayNumber": ".page-nav__day-number"
+    },
+    "movie": {
+      "card": ".movie",
+      "poster": ".movie__poster",
+      "title": ".movie__title",
+      "synopsis": ".movie__synopsis",
+      "data": ".movie__data",
+      "seances": ".movie-seances__hall",
+      "seanceTime": ".movie-seances__time"
+    }
+  }
