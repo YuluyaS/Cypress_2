@@ -1,4 +1,3 @@
-// cypress/e2e/movie_booking.spec.js
 describe('Бронирование фильма через UI с данными из админки', () => {
     let credentials;
     let selectors;
