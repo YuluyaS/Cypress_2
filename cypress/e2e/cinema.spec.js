@@ -1,4 +1,3 @@
-// cypress/e2e/cinema.spec.js
 describe('Тесты проверки главной страницы qamid.tmweb.ru', () => {
   let selectors;
 
