@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "admin_test": "cypress run --spec cypress/e2e/admin_login.spec.js --ci-build-id 1 --group Admin --record --key 34db217f-b136-4ade-8aeb-6341a1903e4d",
+    "cinema_test": "cypress run --spec cypress/e2e/cinema.spec.js --ci-build-id 1 --group Cinema --record --key 34db217f-b136-4ade-8aeb-6341a1903e4d",
+    "movie_test": "cypress run --spec cypress/e2e/movie_booking.spec.js --ci-build-id 1 --group Movie --record --key 34db217f-b136-4ade-8aeb-6341a1903e4d"
   },
   "keywords": [],
   "author": "",
